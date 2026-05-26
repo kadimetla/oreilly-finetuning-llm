@@ -3,7 +3,7 @@
 Repository for the course with all material. 
 
 ## Presentation
-The [slides](<2026-03-17 Finetuning.pdf>) contain additional
+The [slides](<2026-05-27 Finetuning.pdf>) contain additional
 background and theroretical information.
 
 ## Python setup 
